@@ -1,0 +1,154 @@
+C:\Users\Resul\source\repos\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe.config
+C:\Users\Resul\source\repos\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe
+C:\Users\Resul\source\repos\final_ödevi\final_ödevi\bin\Debug\final_ödevi.pdb
+C:\Users\Resul\source\repos\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.AssemblyReference.cache
+C:\Users\Resul\source\repos\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Form1.resources
+C:\Users\Resul\source\repos\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Properties.Resources.resources
+C:\Users\Resul\source\repos\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.GenerateResource.cache
+C:\Users\Resul\source\repos\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Resul\source\repos\final_ödevi\final_ödevi\obj\Debug\final_ödevi.exe
+C:\Users\Resul\source\repos\final_ödevi\final_ödevi\obj\Debug\final_ödevi.pdb
+C:\Users\Resul\source\repos\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastagiris.resources
+C:\Users\Resul\source\repos\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastanesistemgiris.resources
+C:\Users\Resul\source\repos\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastakayit.resources
+C:\Users\Resul\source\repos\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastarandevu.resources
+F:\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe.config
+F:\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe
+F:\final_ödevi\final_ödevi\bin\Debug\final_ödevi.pdb
+F:\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.AssemblyReference.cache
+F:\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Form1.resources
+F:\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastagiris.resources
+F:\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastakayit.resources
+F:\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastanesistemgiris.resources
+F:\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastarandevu.resources
+F:\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Properties.Resources.resources
+F:\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.GenerateResource.cache
+F:\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.CoreCompileInputs.cache
+F:\final_ödevi\final_ödevi\obj\Debug\final_ödevi.exe
+F:\final_ödevi\final_ödevi\obj\Debug\final_ödevi.pdb
+F:\final_ödevi\final_ödevi\obj\Debug\final_ödevi.sistemgiris.resources
+C:\Users\Resul\Desktop\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe.config
+C:\Users\Resul\Desktop\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe
+C:\Users\Resul\Desktop\final_ödevi\final_ödevi\bin\Debug\final_ödevi.pdb
+C:\Users\Resul\Desktop\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.AssemblyReference.cache
+C:\Users\Resul\Desktop\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Form1.resources
+C:\Users\Resul\Desktop\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastagiris.resources
+C:\Users\Resul\Desktop\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastakayit.resources
+C:\Users\Resul\Desktop\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastanesistemgiris.resources
+C:\Users\Resul\Desktop\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastarandevu.resources
+C:\Users\Resul\Desktop\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Properties.Resources.resources
+C:\Users\Resul\Desktop\final_ödevi\final_ödevi\obj\Debug\final_ödevi.sistemgiris.resources
+C:\Users\Resul\Desktop\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.GenerateResource.cache
+C:\Users\Resul\Desktop\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Resul\Desktop\final_ödevi\final_ödevi\obj\Debug\final_ödevi.exe
+C:\Users\Resul\Desktop\final_ödevi\final_ödevi\obj\Debug\final_ödevi.pdb
+C:\Users\Alican\Desktop\final_odevi\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe.config
+C:\Users\Alican\Desktop\final_odevi\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe
+C:\Users\Alican\Desktop\final_odevi\final_ödevi\final_ödevi\bin\Debug\final_ödevi.pdb
+C:\Users\Alican\Desktop\final_odevi\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.AssemblyReference.cache
+C:\Users\Alican\Desktop\final_odevi\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Form1.resources
+C:\Users\Alican\Desktop\final_odevi\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastagiris.resources
+C:\Users\Alican\Desktop\final_odevi\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastakayit.resources
+C:\Users\Alican\Desktop\final_odevi\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastanesistemgiris.resources
+C:\Users\Alican\Desktop\final_odevi\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastarandevu.resources
+C:\Users\Alican\Desktop\final_odevi\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Properties.Resources.resources
+C:\Users\Alican\Desktop\final_odevi\final_ödevi\final_ödevi\obj\Debug\final_ödevi.sistemgiris.resources
+C:\Users\Alican\Desktop\final_odevi\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.GenerateResource.cache
+C:\Users\Alican\Desktop\final_odevi\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Alican\Desktop\final_odevi\final_ödevi\final_ödevi\obj\Debug\final_ödevi.exe
+C:\Users\Alican\Desktop\final_odevi\final_ödevi\final_ödevi\obj\Debug\final_ödevi.pdb
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe.config
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.pdb
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.AssemblyReference.cache
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Form1.resources
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastagiris.resources
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastakayit.resources
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastanesistemgiris.resources
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Properties.Resources.resources
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.sistemgiris.resources
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.GenerateResource.cache
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.exe
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.pdb
+F:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe.config
+F:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe
+F:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.pdb
+F:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.AssemblyReference.cache
+F:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Form1.resources
+F:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastagiris.resources
+F:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastakayit.resources
+F:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastanesistemgiris.resources
+F:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastarandevu.resources
+F:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Properties.Resources.resources
+F:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.sistemgiris.resources
+F:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.GenerateResource.cache
+F:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.CoreCompileInputs.cache
+F:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.exe
+F:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.pdb
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe.config
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.pdb
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.AssemblyReference.cache
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.SuggestedBindingRedirects.cache
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Form1.resources
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastagiris.resources
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastakayit.resources
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastanesistemgiris.resources
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastarandevu.resources
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Properties.Resources.resources
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.sistemgiris.resources
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.GenerateResource.cache
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.CoreCompileInputs.cache
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.exe
+D:\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.pdb
+C:\Users\LAB708\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.AssemblyReference.cache
+C:\Users\LAB708\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.exe
+C:\Users\LAB708\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.pdb
+C:\Users\LAB708\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe.config
+C:\Users\LAB708\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe
+C:\Users\LAB708\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.pdb
+C:\Users\LAB708\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Form1.resources
+C:\Users\LAB708\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastagiris.resources
+C:\Users\LAB708\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastakayit.resources
+C:\Users\LAB708\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastanesistemgiris.resources
+C:\Users\LAB708\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Properties.Resources.resources
+C:\Users\LAB708\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.sistemgiris.resources
+C:\Users\LAB708\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.GenerateResource.cache
+C:\Users\LAB708\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastarandevu.resources
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.doktorgiris.resources
+C:\Users\Resul\Desktop\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.doktorsistemi.resources
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe.config
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.pdb
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.AssemblyReference.cache
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.doktorgiris.resources
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.doktorsistemi.resources
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Form1.resources
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastagiris.resources
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastakayit.resources
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastanesistemgiris.resources
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastarandevu.resources
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Properties.Resources.resources
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.sistemgiris.resources
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.GenerateResource.cache
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.CoreCompileInputs.cache
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.exe
+C:\Users\Resul\Desktop\proje somn\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.pdb
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe.config
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.exe
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.pdb
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.exe
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\bin\Debug\final_ödevi.pdb
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csprojResolveAssemblyReference.cache
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.doktorgiris.resources
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.doktorsistemi.resources
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Form1.resources
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastagiris.resources
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastakayit.resources
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastanesistemgiris.resources
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.hastarandevu.resources
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.Properties.Resources.resources
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.sistemgiris.resources
+D:\Bilgisayar yedek\Masaüstü\Final Yedekler\bitti 2.01.2023\final_odevi(GÜNCEL)\final_ödevi\final_ödevi\obj\Debug\final_ödevi.csproj.GenerateResource.Cache
